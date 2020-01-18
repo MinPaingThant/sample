@@ -1,0 +1,31 @@
+username-MinPaingThant
+Password-MinPaingThant2003
+email-www.min2003@gmail.com
+
+
+cd path- Go to Dictionary 
+
+First time (New Repository)
+			git init
+			git add
+			git config global user.email "www.min2003@gmail.com"
+			git config global user.name "MinPaingThant"
+
+			git commit -m "first comit"
+			git remaote add origin https;//github.com/MinPaingThant/Sample.git
+			git push -u origin master
+(01d Reposity For Existing Project)
+		
+		git add 
+		git commit -m "second commit"
+		git push 
+
+(Existing Project To the other Laptop)
+
+		git pull
+
+(Other person Project To Own Laptop)
+
+		git clone https://github.com/MinPaingThant/sample.git
+
+
